@@ -28,5 +28,8 @@ int main(){
         F[i]=-1;
     }
     cout<<fib(7);
+    for(int i=0 ; i<10; i++){
+        cout<<F[i]<<" ";
+    }
 return 0;
 }
