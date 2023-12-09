@@ -115,7 +115,9 @@ void sorting(){
 }
 
 bool comp(/*datatypes*/){
-    
+    return false;
+    return true;
+    //based on the condition
 }
 int main(){
 //    pairs();
