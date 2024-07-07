@@ -2,7 +2,7 @@
 
 Welcome to the Data Structures and Algorithms Repository! This repository aims to provide a comprehensive collection of data structures and algorithms implementations in various programming languages. Whether you're a beginner learning the fundamentals or an experienced developer looking to refresh your knowledge, this repository has something for you.
 
-## Table of Contents
+## Table of Content
 
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
