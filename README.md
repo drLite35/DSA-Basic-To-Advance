@@ -13,7 +13,7 @@ Welcome to the Data Structures and Algorithms Repository! This repository aims t
 
 ## Introduction
 
-Data structures and algorithms are fundamental concepts in computer science and play a crucial role in solving complex problems efficiently. This repository aims to provide a practical and hands-on approach to learning and implementing various data structures and algorithms.
+Data structures and algorithms are fundamental concepts in computer science and play a crucial role in solving complex problems efficiently. This repository aims to provide a practical and hands-on approach to learning and implementing various data structures and algorithms/Graphs.
 
 ## Getting Started
 
