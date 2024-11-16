@@ -50,7 +50,7 @@ Contributions to this repository are welcome and encouraged! If you would like t
 
 4. Test your code thoroughly to ensure it works as expected.
 
-5. Submit a pull request, clearly describing the changes you've made and providing any relevant information.
+5. Submit a pull request, clearly describing the changes you've made and providing any relevant information and relevant details.
 
 ## License
 
