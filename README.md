@@ -30,6 +30,7 @@ To get started with this repository, follow these steps:
 
 5. Experiment and modify the code to gain a better understanding of how the data structures and algorithms work.
 
+6. Thanks for Using this repo.
 ## Data Structures
 
 The `data-structures` folder contains various implementations of common data structures such as arrays, linked lists, stacks, queues, trees, graphs, and hash tables. Each data structure is organized within its own folder and includes code files, along with explanations and usage examples.
